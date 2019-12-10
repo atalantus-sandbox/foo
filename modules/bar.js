@@ -1,1 +1,3 @@
-console.log("bar");
+const bar = "bar";
+
+console.log(bar);

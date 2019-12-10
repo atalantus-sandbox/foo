@@ -1,1 +1,3 @@
-console.log("index");
+const index = "index";
+
+console.log(index);
