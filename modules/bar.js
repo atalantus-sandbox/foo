@@ -1,4 +1,1 @@
-const bar = "bar";
-
-// log "bar" to the console
-console.log(bar);
+console.log("bar");
